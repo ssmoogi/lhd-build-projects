@@ -1,55 +1,36 @@
-Intro to Python Skills for AI, Part I 
-=================
+# MLH Localhost <> Capital One
 
-Welcome to the workshop!
+This project contains the starter code for Basic Training: Bot Camp!
 
-This is where we are going to write and run our code. 
-
-Click `Tools` (at the bottom of this page) -> `Logs` -> Console` to run your Python scripts. 
-
-Python scripts have the file extension `.py`.
-
-To run a Python script, type `python variables.py` (or any other file name) and hit enter. You will see the output of the script in the Console window.
-
-
-
-Project Files
+Your Project
 ------------
+Click `Show` above and it will launch the app in a new browser tab. It starts by running the `main.py` program.
 
 ### ← README.md
 
-That's this file, with the workshop instructions.
+That's this file!
 
-### ← function.py
+### ← twitter_scraper_fetcher.py
 
-Creating functions so we can reuse blocks of code.
+A Python file that contains functions which scrape data from Twitter.
 
-### ← imports.py
+### ← config.py
 
-How to import other Python libraries, so we can extend the functionality of Python even more.
+This file sets some global variables (variables that are used by other parts of the program).
 
-### ← lists.py
+### ← requirements.txt
 
-Creating arrays and lists of variables.
+This file keeps track of which library versions we are using.
 
-### ← loops.py
+### ← main.py
 
-How to repeat code over and over and over again - quickly!
+This main Python script starts the webpage and processes the scraper requests.
 
-### ← returns.py
+### ← static/ folder
 
-How to return values from functions. 
+This folder contains the JavaScript, CSS and images that the web app uses.
 
-### ← variables.py
+### ← homepage.html
 
-The building blocks of information in any programming language.
+This launches the webpage of the Twitter app.
 
-
-
-Made by [Glitch](https://glitch.com/)
--------------------
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
-
-Find out more [about Glitch](https://glitch.com/about).
-
-\ ゜o゜)ノ
